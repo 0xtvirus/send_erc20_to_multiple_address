@@ -26,7 +26,7 @@ First method:
 2. run deploy_1.py
 3. script_main_1.py
 
-Secon method:
+Second method:
 
 1. run ganache --fork 
 2. run deploy_2.py
