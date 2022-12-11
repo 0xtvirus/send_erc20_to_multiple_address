@@ -13,6 +13,15 @@ accounts:
 amount = 100000000000000000000
 
 
+First method:
+
 1. run ganache --fork 
-2. run deploy.py
-3. run script_main_v2.py
+2. run deploy_1.py
+3. rscript_main_1.py
+
+Secon method:
+
+1. run ganache --fork 
+2. run deploy_2.py
+3. rscript_main_2.py
+
